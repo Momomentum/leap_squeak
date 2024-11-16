@@ -1,0 +1,8 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+AlignEscapedNewlines: DontAlign
+ColumnLimit: 120
+IncludeBlocks: Merge
+IndentWidth: 4
+...

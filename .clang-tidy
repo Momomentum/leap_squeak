@@ -1,0 +1,16 @@
+Checks: 
+  - 'clang-diagnostic-*'
+  - 'clang-analyzer-*'
+  - 'abseil-*'
+  - 'bugprone-*'
+  - 'cppcoreguidelines-*'
+  - 'google-*'
+  - 'modernize-*'
+  - 'performance-*'
+  - 'readability-*'
+  - '-cppcoreguidelines-pro-type-union-access'
+  - '-cppcoreguidelines-pro-type-vararg'
+  - '-cppcoreguidelines-pro-type-reinterpret-cast'
+  - '-readability-identifier-length'
+  - '-readability-implicit-bool-conversion'
+FormatStyle: file
