@@ -17,5 +17,7 @@ https://github.com/user-attachments/assets/8f2e92bc-a732-46f0-ad57-7f66d9bf2fef
 
 # Building
 
-`cmake -B build`
-`cmake --build build`
+```sh
+cmake -B build
+cmake --build build
+```
